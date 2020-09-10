@@ -1,2 +1,2 @@
-def plus(num1, num2):
-    return num1 + num2
+def plus(number1, number2):
+    return number1 + number2

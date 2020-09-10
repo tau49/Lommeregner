@@ -1,2 +1,2 @@
-def minus(num1, num2):
-    return num1 - num2
+def Minus(number1, number2):
+    return number1 - number2
